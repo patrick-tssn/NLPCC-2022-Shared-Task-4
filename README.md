@@ -1,6 +1,24 @@
 # NLPCC-2022-Shared-Task-4
 Multimodal Dialogue Understanding and Generation
 
+
+## [Overview](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
+
+◇ Task 4 - Multimodal Dialogue Understanding and Generation
+
+The multimodal dialogue understanding and generation task can be divided into two phases: multimodal context understanding and response generation. Specifically, the former includes dialogue session identification (i.e., determining whether the dialogue content has changed) and dialogue scene identification (i.e., determining whether the video context has changed). The ultimate goal is to generate a response that is coherent to the dialogue context and relevant to the video context. This task includes three tracks:
+
+● Track 1: Dialogue scene identification: predict the boundaries of different dialogue scenes given a set of continuous dialogue utterances and a related video.
+
+● Track 2: Dialogue session identification: predict the boundaries of different dialogue sessions given a set of continuous dialogue utterances and a related video (which is identical to Track 1).
+
+● Track 3: Dialogue response generation: generate a response based on scene and session predictions, while coherently catching up with the conversation.
+
+Organizer: Wangxuan Institute of Computer Technology, Peking University
+
+Contact: Xueliang ZHAO ([xl.zhao@pku.edu.cn](mailto:xl.zhao@pku.edu.cn))
+
+
 ## Data
 
 ### Statistics
@@ -56,18 +74,4 @@ NOTE: We only provide frames(3fps) of provided utterances
 
 
 
-## [Overview](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
 
-◇ Task 4 - Multimodal Dialogue Understanding and Generation
-
-The multimodal dialogue understanding and generation task can be divided into two phases: multimodal context understanding and response generation. Specifically, the former includes dialogue session identification (i.e., determining whether the dialogue content has changed) and dialogue scene identification (i.e., determining whether the video context has changed). The ultimate goal is to generate a response that is coherent to the dialogue context and relevant to the video context. This task includes three tracks:
-
-● Track 1: Dialogue scene identification: predict the boundaries of different dialogue scenes given a set of continuous dialogue utterances and a related video.
-
-● Track 2: Dialogue session identification: predict the boundaries of different dialogue sessions given a set of continuous dialogue utterances and a related video (which is identical to Track 1).
-
-● Track 3: Dialogue response generation: generate a response based on scene and session predictions, while coherently catching up with the conversation.
-
-Organizer: Wangxuan Institute of Computer Technology, Peking University
-
-Contact: Xueliang ZHAO ([xl.zhao@pku.edu.cn](mailto:xl.zhao@pku.edu.cn))
