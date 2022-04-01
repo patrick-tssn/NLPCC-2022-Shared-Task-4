@@ -19,9 +19,9 @@ Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk](
 
 ```
 # .jsonl
-{'Safe_S01E05': // [name of TV show]_S[season]_E[episode]
+{'Friends_S01E01': // [name of TV show]_S[season]_E[episode]
        [{
-            'vid':'Safe_S01E05_clip_000', // clip id
+            'vid':'Friends_S01E01_clip_000', // clip id
             'subs':[
                 {
                     'turn_id':0, // turn id of current clip
@@ -45,11 +45,11 @@ NOTE: We only provide frames(3fps) of provided utterances
 
 ```
 // [name of TV show]_S[season]_E[episode]_clip_[clip id]_dia_[turn id]_[image id].jpg
-├──Safe
-      └── Safe_S01E01
+├──Friends
+      └── Friends_S01E01
             └── clip_000
-                     └── Safe_S01E01_clip_000_dia_00_01.jpg 
-                     └── Safe_S01E01_clip_000_dia_00_02.jpg
+                     └── Friends_S01E01_clip_000_dia_00_01.jpg 
+                     └── Friends_S01E01_clip_000_dia_00_02.jpg
                      └── ...
             └── ...
       └── ...
