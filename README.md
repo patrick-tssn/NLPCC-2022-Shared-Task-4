@@ -1,11 +1,9 @@
 # NLPCC-2022-Shared-Task-4
 Multimodal Dialogue Understanding and Generation
 
-## [NLPCC'22 Shared Task 4](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
+## Data
 
-### Data
-
-#### Statistics
+### Statistics
 
 |       | clips  | utterances | scenes | sessions | utter/clip | scene/clip | session/clip | en_word/clip | en_word/utter | ch_word/clip | ch_word/utter |
 | ----- | ------ | ---------- | ------ | -------- | ---------- | ---------- | ------------ | ------------ | ------------- | ------------ | ------------- |
@@ -13,7 +11,7 @@ Multimodal Dialogue Understanding and Generation
 | valid | 1,955  | 50,032     | 3,202  | 6,331    | 25.6       | 1.64       | 3.24         | 174.49       | 6.82          | 283.7        | 11.09         |
 | test  | 1,934  | 50,131     | 3,284  | 6,949    | 25.92      | 1.7        | 3.59         | 178.65       | 6.89          | 286.42       | 11.05         |
 
-#### Detail
+### Detail
 Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | GoogleDrive
 - TEXT
 
@@ -58,7 +56,7 @@ NOTE: We only provide frames(3fps) of provided utterances
 
 
 
-### Overview
+## [Overview](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
 
 ◇ Task 4 - Multimodal Dialogue Understanding and Generation
 
