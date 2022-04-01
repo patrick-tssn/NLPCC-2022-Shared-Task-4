@@ -17,7 +17,7 @@ Multimodal Dialogue Understanding and Generation
 
 - TEXT
 
-```json
+```
 # .jsonl
 {'Safe_S01E05': // [name of TV show]_S[season]_E[episode]
        [{
@@ -48,9 +48,9 @@ NOTE: We only provide frames(3fps) of provided utterances
 ├──Safe
       └── Safe_S01E01
             └── clip_000
-            			└── Safe_S01E01_clip_000_dia_00_01.jpg 
-            			└── Safe_S01E01_clip_000_dia_00_02.jpg
-            			└── ...
+                     └── Safe_S01E01_clip_000_dia_00_01.jpg 
+                     └── Safe_S01E01_clip_000_dia_00_02.jpg
+                     └── ...
             └── ...
       └── ...
  ├── ...
