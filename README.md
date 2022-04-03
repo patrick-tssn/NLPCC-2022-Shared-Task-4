@@ -30,7 +30,7 @@ Contact: Xueliang ZHAO ([xl.zhao@pku.edu.cn](mailto:xl.zhao@pku.edu.cn))
 | test  | 1,934  | 50,131     | 3,284  | 6,949    | 25.92      | 1.7        | 3.59         | 178.65       | 6.89          | 286.42       | 11.05         |
 
 ### Details
-Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | [GoogleDrive(text only)](https://drive.google.com/drive/folders/1DjUYX5u2xqPv9xwe_fr2DvJzAgMQjNMF?usp=sharing)
+Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~400G)](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | [GoogleDrive(text only)](https://drive.google.com/drive/folders/1DjUYX5u2xqPv9xwe_fr2DvJzAgMQjNMF?usp=sharing)
 - TEXT
 
 ```
