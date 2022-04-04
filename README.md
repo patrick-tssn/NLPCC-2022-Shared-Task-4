@@ -54,6 +54,7 @@ Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~
  }
  ...
 ```
+note: In valid set you can view the last utterance of the clip as the reference response.
 
 - VIDEO
 
