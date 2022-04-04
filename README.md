@@ -70,6 +70,7 @@ NOTE: We only provide frames(3fps) of provided utterances
 ├── ...
 ```
 ```
+// MD5
 {
        "MDUG_rgb_train_1.zip": "746ce538d0568f190659084c908d7de0", 
        "MDUG_rgb_train_2.zip": "9413810d1d1c9332376b08cf4fd7c037", 
