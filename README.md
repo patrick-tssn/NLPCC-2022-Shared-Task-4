@@ -58,7 +58,7 @@ note: In valid set you can view the last utterance of the clip as the reference 
 
 - VIDEO
 
-NOTE: We only provide frames(3fps) of provided utterances
+NOTE: We only provide frames(3fps) of the provided utterances
 
 ```
 // [name of TV show]_S[season]_E[episode]_clip_[clip id]_dia_[turn id]_[image id].jpg
