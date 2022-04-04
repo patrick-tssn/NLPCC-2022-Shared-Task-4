@@ -92,9 +92,6 @@ NOTE: We only provide frames(3fps) of provided utterances
 {
        "MDUG_rgb_valid.zip": "1e00d0ba50dc7fdb41f12936500a7de7"
 }
-{
-       "MDUG_rgb_test.zip": "3d211643e69aaaaf0d33fc122080cf07"
-}
 ```
 
 
