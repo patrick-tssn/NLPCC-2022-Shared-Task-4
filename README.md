@@ -16,7 +16,6 @@ The multimodal dialogue understanding and generation task can be divided into tw
 
 Organizer: Wangxuan Institute of Computer Technology, Peking University
 
-Contact: Xueliang ZHAO ([xl.zhao@pku.edu.cn](mailto:xl.zhao@pku.edu.cn))
 
 
 ## Data
