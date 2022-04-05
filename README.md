@@ -37,7 +37,7 @@ Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~
 
 ```
 # .jsonl
-{'Friends_S01E01': // [name of TV show]_S[season]_E[episode]
+{'Friends_S01E01': // episode id: [name of TV show]_S[season]_E[episode]
        [{
             'vid':'Friends_S01E01_clip_000', // clip id
             'subs':[
