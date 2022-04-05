@@ -16,7 +16,7 @@ The multimodal dialogue understanding and generation task can be divided into tw
 
 Organizer: Wangxuan Institute of Computer Technology, Peking University
 
-**NOTEs:**
+*NOTEs:*
 
 1. Track 1/2: The standard input is the whole episode.
 2. Track 3: The standard input is the dialogue clip. Specifically, the dialogue context is the first n-1 utterances of the dialogue clip, and the reference is the last utterance.
@@ -56,11 +56,10 @@ Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~
  }
  ...
 ```
-note: In valid set you can view the last utterance of the clip as the reference response.
 
 - VIDEO
 
-NOTE: We only provide frames(3fps) of the provided utterances
+*NOTE:* We only provide frames(3fps) of the provided utterances
 
 ```
 // [name of TV show]_S[season]_E[episode]_clip_[clip id]_dia_[turn id]_[image id].jpg
