@@ -16,7 +16,10 @@ The multimodal dialogue understanding and generation task can be divided into tw
 
 Organizer: Wangxuan Institute of Computer Technology, Peking University
 
+**NOTEs:**
 
+1. Track 1/2: The standard input is the whole episode.
+2. Track 3: The standard input is the dialogue clip. Specifically, the dialogue context is the first n-1 utterances of the dialogue clip, and the reference is the last utterance.
 
 ## Data
 
