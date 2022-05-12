@@ -42,6 +42,7 @@ We released the test set, you can download from [BaiduNetDisk](https://pan.baidu
 # task 3
 {
        'Friends_S01E01_clip_000':'__ANSWER__', # replace __ANSWER__ with your answer(English only)
+       ...
 }
 ```
 SUBMISSION Deadline: 2022.05.20
