@@ -32,6 +32,7 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 We release the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
 
 *SUBMISSION FORMAT:*
+SUBMISSION Deadline: 2022.05.20
 ```
 # task 1/2
 {
