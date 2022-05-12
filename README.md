@@ -29,7 +29,7 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 
 
 ### UPDATE
-We release the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1svj4r9xDDgwnMbZymX_JCg?pwd=xczp)
+We release the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
 
 *SUBMISSION FORMAT:*
 ```
