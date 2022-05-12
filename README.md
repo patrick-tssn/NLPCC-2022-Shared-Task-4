@@ -33,7 +33,6 @@ We release the test set, you can download from [BaiduNetDisk](https://pan.baidu.
 
 *SUBMISSION FORMAT:*
 
-SUBMISSION Deadline: 2022.05.20
 ```
 # task 1/2
 {
@@ -45,6 +44,7 @@ SUBMISSION Deadline: 2022.05.20
        'Friends_S01E01_clip_000':'__ANSWER__', # replace __ANSWER__ with your answer(English only)
 }
 ```
+SUBMISSION Deadline: 2022.05.20
 
 [SUBMISSION ENTRY(open soon)]()
 
