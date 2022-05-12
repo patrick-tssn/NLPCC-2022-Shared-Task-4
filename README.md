@@ -27,6 +27,24 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 | valid | 1,955  | 50,032     | 3,202  | 6,331    | 25.6       | 1.64       | 3.24         | 174.49       | 6.82          | 283.7        | 11.09         |
 | test  | 1,934  | 50,131     | 3,284  | 6,949    | 25.92      | 1.7        | 3.59         | 178.65       | 6.89          | 286.42       | 11.05         |
 
+
+### UPDATE
+We release the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1svj4r9xDDgwnMbZymX_JCg?pwd=xczp)
+
+*SUBMISSION FORMAT:*
+```
+# task 1/2
+{
+       'Friends_S01E01_clip_000':[1, 0, ...], # your prediction in list format(you are not asked to predict the label of the last utterance.)
+       ...
+}
+# task 3
+{
+       'Friends_S01E01_clip_000':'__ANSWER__', # replace __ANSWER__ with your answer(English only)
+}
+```
+- 
+
 ### Details
 Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~400G)](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | [GoogleDrive(TEXT only)](https://drive.google.com/drive/folders/1DjUYX5u2xqPv9xwe_fr2DvJzAgMQjNMF?usp=sharing)
 - TEXT
