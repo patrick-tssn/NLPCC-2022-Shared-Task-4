@@ -35,17 +35,17 @@ We released the test set, you can download from [BaiduNetDisk](https://pan.baidu
 
 ```
 #
-# task 1: track1.json
+# task 1: TEAMID_track1.json
 {
        'Friends_S01E01_clip_000':[1, 0, ...], # your prediction in list format(you are not asked to predict the label of the last utterance.)
        ...
 }
-# task 2: track2.json
+# task 2: TEAMID_track2.json
 {
        'Friends_S01E01_clip_000':[1, 0, ...], # your prediction in list format(you are not asked to predict the label of the last utterance.)
        ...
 }
-# task 3: track3.json
+# task 3: TEAMID_track3.json
 {
        'Friends_S01E01_clip_000':'__ANSWER__', # replace __ANSWER__ with your answer(English only)
        ...
