@@ -47,7 +47,7 @@ We released the test set, you can download from [BaiduNetDisk](https://pan.baidu
 ```
 SUBMISSION Deadline: 2022.05.20
 
-[SUBMISSION ENTRY(open soon)]()
+[SUBMISSION ENTRY](https://forms.gle/1K8b7P2ocHDRCpoK6)
 
 ### Details
 Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~400G)](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | [GoogleDrive(TEXT only)](https://drive.google.com/drive/folders/1DjUYX5u2xqPv9xwe_fr2DvJzAgMQjNMF?usp=sharing)
