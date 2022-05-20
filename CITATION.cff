@@ -3,15 +3,15 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Wang"
   given-names: "Yuxuan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: 
 - family-names: "Zhao"
   given-names: "Xueliang"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: 
 - family-names: "Zhao"
   given-names: "Dongyan"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: 
 title: "NLPCC-2022-Shared-Task-4"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 
 date-released: 2022-05-20
 url: "https://github.com/patrick-tssn/NLPCC-2022-Shared-Task-4"
