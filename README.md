@@ -29,7 +29,12 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 
 
 ### UPDATE
-We released the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
+
+#### We released the evaluation scripts
+
+evaluation/evaluate.py
+
+#### We released the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
 
 *SUBMISSION FORMAT:*
 

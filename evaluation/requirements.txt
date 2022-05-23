@@ -1,0 +1,4 @@
+matplotlib==3.5.1
+numpy==1.19.2
+torch==1.7.1
+torchmetrics==0.6.0
