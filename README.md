@@ -27,14 +27,38 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 | valid | 1,955  | 50,032     | 3,202  | 6,331    | 25.6       | 1.64       | 3.24         | 174.49       | 6.82          | 283.7        | 11.09         |
 | test  | 1,934  | 50,131     | 3,284  | 6,949    | 25.92      | 1.7        | 3.59         | 178.65       | 6.89          | 286.42       | 11.05         |
 
+### LeaderBoard
+
+#### Track 1
+| Team ID  | Accuracy | F1    |
+| -------- | -------- | ----- |
+| LingJing | 93.88    | 18.15 |
+|          |          |       |
+
+#### Track 2
+| Team ID  | Accuracy | F1    |
+| -------- | -------- | ----- |
+| Eastwood | 72.29    | 39.76 |
+| LingJing | 87.79    | 28.90 |
+|          |          |       |
+
+#### Track 3
+| Team ID  | Bleu1 | Bleu2 | Bleu3 | Bleu4 | Rouge-L | METEOR | CIDEr |
+| -------- | ----- | ----- | ----- | ----- | ------- | ------ | ----- |
+| LingJing | 0.139 | 0.100 | 0.083 | 0.072 | 0.226   | 0.117  | 1.290 |
+|          |       |       |       |       |         |        |       |
+
+
+
+
 
 ### UPDATE
 
-#### We released the evaluation scripts
+#### 2022.05.23 We released the evaluation scripts
 
 evaluation/evaluate.py
 
-#### We released the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
+#### 2022.05.12 We released the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
 
 *SUBMISSION FORMAT:*
 
