@@ -38,8 +38,8 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 #### Track 2
 | Team ID  | Accuracy | F1    |
 | -------- | -------- | ----- |
-| Eastwood | 72.29    | 39.76 |
 | LingJing | 87.79    | 28.90 |
+| Eastwood | 72.29    | 39.76 |
 |          |          |       |
 
 #### Track 3
