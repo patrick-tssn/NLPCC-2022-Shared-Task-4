@@ -58,7 +58,7 @@ Organizer: Wangxuan Institute of Computer Technology, Peking University
 
 evaluation/evaluate.py
 
-#### 2022.05.12 We released the test set, you can download from [BaiduNetDisk](https://pan.baidu.com/s/1Cl8HS5rIfeoDE4xGPwWNhw?pwd=llb1)
+#### 2022.05.12 We released the test set, you can download from [BaiduNetDisk(closed)]()
 
 *SUBMISSION FORMAT:*
 
@@ -85,7 +85,7 @@ SUBMISSION Deadline: 2022.05.20
 SUBMISSION ENTRY(closed)
 
 ### Details
-Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(~400G)](https://pan.baidu.com/s/1yTVtZB5bgGN_wNvJw0_JbQ?pwd=xg56 ) | [GoogleDrive(TEXT only)](https://drive.google.com/drive/folders/1DjUYX5u2xqPv9xwe_fr2DvJzAgMQjNMF?usp=sharing)
+Download `[train|valid].jsonl and MDUG_rgb_[train|valid]_n.zip`  [BaiduNetDisk(closed)]() | [GoogleDrive(closed)]()
 - TEXT
 
 ```
