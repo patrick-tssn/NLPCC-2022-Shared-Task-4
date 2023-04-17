@@ -1,6 +1,7 @@
 # NLPCC-2022-Shared-Task-4
 Multimodal Dialogue Understanding and Generation
 
+*Please refer to the latest shared task: [NLPCC2023 Shared Task 10](https://github.com/yellow-binary-tree/NLPCC-2023-Shared-Task-10)*
 
 ## [Overview](http://tcci.ccf.org.cn/conference/2022/cfpt.php)
 
